@@ -81,3 +81,26 @@
 [2026-02-26 14:22:50] [WARNING] [app] - Failed to load spaCy model: unable to infer type for attribute "REGEX"
 [2026-02-26 14:23:19] [WARNING] [app] - Failed to load spaCy model: unable to infer type for attribute "REGEX"
 [2026-02-26 14:23:47] [WARNING] [app] - Failed to load spaCy model: unable to infer type for attribute "REGEX"
+[2026-02-26 14:23:53] [WARNING] [app] - Failed to load spaCy model: unable to infer type for attribute "REGEX"
+[2026-02-26 14:26:35] [WARNING] [app] - Failed to load spaCy model: unable to infer type for attribute "REGEX"
+[2026-02-26 14:30:39] [INFO] [app] - Starting analysis for file: Ravula Ramesh.pdf
+[2026-02-26 14:30:39] [INFO] [app] - PDF parsed successfully
+[2026-02-26 14:30:39] [INFO] [app] - Extracted 7 skills
+[2026-02-26 14:30:39] [INFO] [app] - Skills extracted: 7 found
+[2026-02-26 14:30:39] [INFO] [app] - ATS score calculated: 3.96
+[2026-02-26 14:30:39] [INFO] [app] - Generated 3 suggestions
+[2026-02-26 14:30:39] [INFO] [app] - Resume analysis completed successfully
+[2026-02-26 14:33:57] [INFO] [app] - Starting analysis for file: ramadevi_resume.pdf
+[2026-02-26 14:33:58] [INFO] [app] - PDF parsed successfully
+[2026-02-26 14:33:58] [INFO] [app] - Extracted 0 skills
+[2026-02-26 14:33:58] [INFO] [app] - Skills extracted: 0 found
+[2026-02-26 14:33:58] [INFO] [app] - ATS score calculated: 0.0
+[2026-02-26 14:33:58] [INFO] [app] - Generated 5 suggestions
+[2026-02-26 14:33:58] [INFO] [app] - Resume analysis completed successfully
+[2026-02-26 14:34:53] [INFO] [app] - Starting analysis for file: Ravula Ramesh.pdf
+[2026-02-26 14:34:54] [INFO] [app] - PDF parsed successfully
+[2026-02-26 14:34:54] [INFO] [app] - Extracted 7 skills
+[2026-02-26 14:34:54] [INFO] [app] - Skills extracted: 7 found
+[2026-02-26 14:34:54] [INFO] [app] - ATS score calculated: 3.96
+[2026-02-26 14:34:54] [INFO] [app] - Generated 3 suggestions
+[2026-02-26 14:34:54] [INFO] [app] - Resume analysis completed successfully
