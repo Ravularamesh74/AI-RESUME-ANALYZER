@@ -213,7 +213,7 @@ streamlit run app.py
 **Ramesh Ravula**
 📍 Hyderabad, India
 🎓 MCA Student
-💻 AI & Full-Stack Developer
+💻Full-Stack Developer
 
 ---
 
