@@ -1,0 +1,83 @@
+[2026-02-26 14:02:14] [WARNING] [app] - Failed to load spaCy model: unable to infer type for attribute "REGEX"
+[2026-02-26 14:02:14] [WARNING] [app] - Failed to load spaCy model: unable to infer type for attribute "REGEX"
+[2026-02-26 14:02:14] [WARNING] [app] - Failed to load spaCy model: unable to infer type for attribute "REGEX"
+[2026-02-26 14:02:14] [WARNING] [app] - Failed to load spaCy model: unable to infer type for attribute "REGEX"
+[2026-02-26 14:02:27] [WARNING] [app] - Failed to load spaCy model: unable to infer type for attribute "REGEX"
+[2026-02-26 14:03:03] [WARNING] [app] - Failed to load spaCy model: unable to infer type for attribute "REGEX"
+[2026-02-26 14:03:03] [WARNING] [app] - Failed to load spaCy model: unable to infer type for attribute "REGEX"
+[2026-02-26 14:03:03] [WARNING] [app] - Failed to load spaCy model: unable to infer type for attribute "REGEX"
+[2026-02-26 14:03:04] [WARNING] [app] - Failed to load spaCy model: unable to infer type for attribute "REGEX"
+[2026-02-26 14:03:14] [WARNING] [app] - Failed to load spaCy model: unable to infer type for attribute "REGEX"
+[2026-02-26 14:04:33] [WARNING] [app] - Failed to load spaCy model: unable to infer type for attribute "REGEX"
+[2026-02-26 14:04:33] [WARNING] [app] - Failed to load spaCy model: unable to infer type for attribute "REGEX"
+[2026-02-26 14:04:33] [WARNING] [app] - Failed to load spaCy model: unable to infer type for attribute "REGEX"
+[2026-02-26 14:04:33] [WARNING] [app] - Failed to load spaCy model: unable to infer type for attribute "REGEX"
+[2026-02-26 14:04:33] [WARNING] [app] - Failed to load spaCy model: unable to infer type for attribute "REGEX"
+[2026-02-26 14:04:57] [INFO] [app] - Starting analysis for file: Ravula Ramesh.pdf
+[2026-02-26 14:04:57] [INFO] [app] - PDF parsed successfully
+[2026-02-26 14:04:57] [INFO] [app] - Extracted 7 skills
+[2026-02-26 14:04:57] [INFO] [app] - Skills extracted: 7 found
+[2026-02-26 14:04:57] [INFO] [app] - ATS score calculated: 3.96
+[2026-02-26 14:04:57] [INFO] [app] - Generated 3 suggestions
+[2026-02-26 14:04:57] [INFO] [app] - Resume analysis completed successfully
+[2026-02-26 14:05:01] [INFO] [app] - Starting analysis for file: Ravula Ramesh.pdf
+[2026-02-26 14:05:01] [INFO] [app] - PDF parsed successfully
+[2026-02-26 14:05:01] [INFO] [app] - Extracted 7 skills
+[2026-02-26 14:05:01] [INFO] [app] - Skills extracted: 7 found
+[2026-02-26 14:05:01] [INFO] [app] - ATS score calculated: 3.96
+[2026-02-26 14:05:01] [INFO] [app] - Generated 3 suggestions
+[2026-02-26 14:05:01] [INFO] [app] - Resume analysis completed successfully
+[2026-02-26 14:07:59] [INFO] [app] - Starting analysis for file: Ravula Ramesh.pdf
+[2026-02-26 14:07:59] [INFO] [app] - PDF parsed successfully
+[2026-02-26 14:07:59] [INFO] [app] - Extracted 7 skills
+[2026-02-26 14:08:00] [INFO] [app] - Skills extracted: 7 found
+[2026-02-26 14:08:00] [INFO] [app] - ATS score calculated: 3.96
+[2026-02-26 14:08:00] [INFO] [app] - Generated 3 suggestions
+[2026-02-26 14:08:00] [INFO] [app] - Resume analysis completed successfully
+[2026-02-26 14:08:09] [INFO] [app] - Starting analysis for file: Ravula Ramesh.pdf
+[2026-02-26 14:08:09] [INFO] [app] - PDF parsed successfully
+[2026-02-26 14:08:09] [INFO] [app] - Extracted 7 skills
+[2026-02-26 14:08:09] [INFO] [app] - Skills extracted: 7 found
+[2026-02-26 14:08:09] [INFO] [app] - ATS score calculated: 3.96
+[2026-02-26 14:08:09] [INFO] [app] - Generated 3 suggestions
+[2026-02-26 14:08:09] [INFO] [app] - Resume analysis completed successfully
+[2026-02-26 14:08:34] [INFO] [app] - Starting analysis for file: Ravula Ramesh.pdf
+[2026-02-26 14:08:34] [INFO] [app] - PDF parsed successfully
+[2026-02-26 14:08:34] [INFO] [app] - Extracted 7 skills
+[2026-02-26 14:08:34] [INFO] [app] - Skills extracted: 7 found
+[2026-02-26 14:08:34] [INFO] [app] - ATS score calculated: 3.96
+[2026-02-26 14:08:34] [INFO] [app] - Generated 3 suggestions
+[2026-02-26 14:08:34] [INFO] [app] - Resume analysis completed successfully
+[2026-02-26 14:08:54] [INFO] [app] - Starting analysis for file: 3rd sem results.pdf
+[2026-02-26 14:08:54] [INFO] [app] - PDF parsed successfully
+[2026-02-26 14:08:54] [INFO] [app] - Extracted 1 skills
+[2026-02-26 14:08:54] [INFO] [app] - Skills extracted: 1 found
+[2026-02-26 14:08:54] [INFO] [app] - ATS score calculated: 0.0
+[2026-02-26 14:08:54] [INFO] [app] - Generated 5 suggestions
+[2026-02-26 14:08:54] [INFO] [app] - Resume analysis completed successfully
+[2026-02-26 14:12:09] [INFO] [app] - Starting analysis for file: 3rd sem results.pdf
+[2026-02-26 14:12:09] [INFO] [app] - PDF parsed successfully
+[2026-02-26 14:12:09] [INFO] [app] - Extracted 1 skills
+[2026-02-26 14:12:09] [INFO] [app] - Skills extracted: 1 found
+[2026-02-26 14:12:09] [INFO] [app] - ATS score calculated: 0.0
+[2026-02-26 14:12:09] [INFO] [app] - Generated 5 suggestions
+[2026-02-26 14:12:09] [INFO] [app] - Resume analysis completed successfully
+[2026-02-26 14:12:23] [INFO] [app] - Starting analysis for file: Ravula Ramesh.pdf
+[2026-02-26 14:12:23] [INFO] [app] - PDF parsed successfully
+[2026-02-26 14:12:23] [INFO] [app] - Extracted 7 skills
+[2026-02-26 14:12:23] [INFO] [app] - Skills extracted: 7 found
+[2026-02-26 14:12:23] [INFO] [app] - ATS score calculated: 3.96
+[2026-02-26 14:12:23] [INFO] [app] - Generated 3 suggestions
+[2026-02-26 14:12:23] [INFO] [app] - Resume analysis completed successfully
+[2026-02-26 14:14:54] [WARNING] [app] - Failed to load spaCy model: unable to infer type for attribute "REGEX"
+[2026-02-26 14:14:54] [WARNING] [app] - Failed to load spaCy model: unable to infer type for attribute "REGEX"
+[2026-02-26 14:14:54] [WARNING] [app] - Failed to load spaCy model: unable to infer type for attribute "REGEX"
+[2026-02-26 14:14:54] [WARNING] [app] - Failed to load spaCy model: unable to infer type for attribute "REGEX"
+[2026-02-26 14:14:54] [WARNING] [app] - Failed to load spaCy model: unable to infer type for attribute "REGEX"
+[2026-02-26 14:22:49] [WARNING] [app] - Failed to load spaCy model: unable to infer type for attribute "REGEX"
+[2026-02-26 14:22:49] [WARNING] [app] - Failed to load spaCy model: unable to infer type for attribute "REGEX"
+[2026-02-26 14:22:50] [WARNING] [app] - Failed to load spaCy model: unable to infer type for attribute "REGEX"
+[2026-02-26 14:22:50] [WARNING] [app] - Failed to load spaCy model: unable to infer type for attribute "REGEX"
+[2026-02-26 14:22:50] [WARNING] [app] - Failed to load spaCy model: unable to infer type for attribute "REGEX"
+[2026-02-26 14:23:19] [WARNING] [app] - Failed to load spaCy model: unable to infer type for attribute "REGEX"
+[2026-02-26 14:23:47] [WARNING] [app] - Failed to load spaCy model: unable to infer type for attribute "REGEX"
